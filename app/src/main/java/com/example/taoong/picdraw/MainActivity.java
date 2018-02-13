@@ -21,6 +21,7 @@ import android.widget.Toast;
 
 // This project was coded with help from the drawing tutorial:
 // https://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-essential-functionality--mobile-19328
+
 public class MainActivity extends Activity implements OnClickListener{
 
     ImageView imageCapture;

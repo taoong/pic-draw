@@ -201,10 +201,7 @@
                 android:tag="#FF000000" />
         </LinearLayout>
     </LinearLayout>
-
-
-
-
+    
     <Button
         android:id="@+id/btnCapture"
         android:layout_width="match_parent"

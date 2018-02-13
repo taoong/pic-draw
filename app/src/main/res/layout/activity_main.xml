@@ -209,6 +209,6 @@ https://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-interface-c
         android:layout_height="wrap_content"
         android:layout_weight="0.05"
         android:background="@android:color/darker_gray"
-        android:text="Capture" />
+        android:text="Capture New Image" />
 
 </LinearLayout>
